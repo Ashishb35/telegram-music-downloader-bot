@@ -10,7 +10,7 @@ To get a local copy installed and working, follow these steps:
  - Clone this repository
 
     ```console
-    git clone https://github.com/Ashishb35/telegram-music-downloader-bot.git
+    git clone git clone https://github.com/Ashishb35/telegram-music-downloader-bot.git
     ```
     
  - Enter the project folder
@@ -55,7 +55,7 @@ To get a local copy installed and working, follow these steps:
 
 ## 🟪 Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/henriqueclaranhan/telegram-music-downloader-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ashishb35/telegram-music-downloader-bot)
 
 
 ## 📷 Screenshot
