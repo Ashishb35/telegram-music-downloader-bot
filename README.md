@@ -10,7 +10,7 @@ To get a local copy installed and working, follow these steps:
  - Clone this repository
 
     ```console
-    git clone https://github.com/henriqueclaranhan/telegram-music-downloader-bot.git
+    git clone https://github.com/Ashishb35/telegram-music-downloader-bot.git
     ```
     
  - Enter the project folder
@@ -40,7 +40,7 @@ To get a local copy installed and working, follow these steps:
  2. Insert your token in the `sample.env` file
 
     ```py
-    TOKEN = "INSERT_YOUR_TOKEN_HERE"
+    TOKEN = "5120192788:AAEphFPsLzEgzMxYcKIhhk_uVfMZ6KrcBlY"
     ```
 
  3. Rename `sample.env` to `.env`
